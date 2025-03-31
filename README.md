@@ -1,5 +1,5 @@
 # GameOn
-SALÓN DE ARCADE GAME-ON 
+SALÓN DE ARCADE GAME-ON        
 <!DOCTYPE html><html lang="es">
 <head>
     <meta charset="UTF-8">
